@@ -8,7 +8,7 @@ Website da Freitas Renovações, com prioridade ao telemóvel e animações cont
 
 Para guardar alterações neste repositório é necessário iniciar sessão no GitHub e ter permissão de escrita. Outras pessoas podem criar uma cópia (fork) e propor as alterações por pull request.
 
-[Contexto da conversa](https://chatgpt.com/s/cx_6afd96e0e420819199c3f56002e70a59) — esta partilha é uma cópia de leitura. O botão **Continue in ChatGPT** permite usar esse contexto numa conversa própria; não edita a conversa original nem dá acesso aos ficheiros do computador.
+[Contexto da conversa](https://chatgpt.com/s/cx_6afd9dea9aa48191bb8c5ff9fbc70b3b) — esta partilha é uma cópia de leitura. O botão **Continue in ChatGPT** permite usar esse contexto numa conversa própria; não edita a conversa original nem dá acesso aos ficheiros do computador.
 
 ## Executar localmente
 
